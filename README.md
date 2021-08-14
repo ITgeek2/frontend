@@ -67,8 +67,26 @@ initial education for front_end work
          
 >포함관계 (nested) 
          
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+
+<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+</body>
+</html>
+
+### html attribute# 
+
+>웹 페이지 구조 표시
          
-         
+>웹 페이지 콘텐츠 표시 
+> 텍스트 컨텐츠인지
+> 멀티미디어 컨텐츠 인지 : 이미지, 비디오, 오디오 
          
          
          
