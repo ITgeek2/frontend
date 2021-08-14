@@ -90,4 +90,22 @@ initial education for front_end work
          h1-h6: 제목태그 (h-> heading) 
          
  ###html paragraph         
+  HTML CSS JAVA SCRIPT REACT.JS
+         :  https://hello-bryan.tistory.com/114
+          : https://htmlcolorcodes.com/ -> https://htmlcolorcodes.com/color-picker/
+
+*****************************************************************************************
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Static Template</title>
+  </head>
+  <body>
+    <h1>This is a static template, there is no bundler or bundling involved!</h1>
+    <br />html&nbsp;<br / >       
+  </body>
+</html>
          
