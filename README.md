@@ -129,3 +129,5 @@ initial education for front_end work
               https://noonnu.cc/ 눈누폰트: 한글 지원 
               https://hangeul.naver.com/2017/nanum 네이버 나눔글꼴 
               https://www.rixfontcloud.com/Font/Detail/RixGo 구글+어도비 합작 글꼴
+         
+  ###     gnb/lnb ### 화면구성 기본 페이지   
