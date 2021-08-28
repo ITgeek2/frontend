@@ -131,3 +131,4 @@ initial education for front_end work
               https://www.rixfontcloud.com/Font/Detail/RixGo 구글+어도비 합작 글꼴
          
   ###     gnb/lnb ### 화면구성 기본 페이지   
+  ### https://www.photopea.com/ 포토피아 :이미지편집
