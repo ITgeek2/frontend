@@ -112,3 +112,12 @@ initial education for front_end work
  ####
         code reveiw용: https://codesandbox.io/s/itac-08-0ye9v?file=/index.html
  ####
+         id attribute and class attribute 
+         
+         id = html 문서내 1번만 사용 
+             - data 사용시 (sever는 name을 사용하기도 함)
+         
+         class = 1개의 대상에 여러개 이름 사용, 혹은 중복사용 
+               - css styling을 할 때
+         
+         
