@@ -120,4 +120,10 @@ initial education for front_end work
          class = 1개의 대상에 여러개 이름 사용, 혹은 중복사용 
                - css styling을 할 때
          
+ ###web font
+         - 웹에서 사용하는 폰트는 브라우저에서 랜더링되기때문에 기존에는 사용자pc에 설치되어 있는 폰트를 사용
+         - 눈누: 폰트 사이트 & 구글폰트 
+         - 사용자 폰트를 사용하지않고 서버에 폰트를 저장해서 사용하는 방식 - 웹폰트  
          
+         주소) https://fonts.google.com/ 구글폰트: 영문과 한글 지원 
+              https://noonnu.cc/ 눈누폰트: 한글 지원 
