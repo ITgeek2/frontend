@@ -172,8 +172,12 @@ initial education for front_end work
          @MEDIA SCREEN AND(@MAX WIDTH:1024PX)
          
          /*SMARTPOHNE*/
-      @MEDIA SCREEN AND(@MAX WIDTH:620PX)
+      @MEDIA SCREEN AND(@MAX WIDTH:620PX) 
+ 
+ ###수업css code 주소 ###
+      
+     https://codesandbox.io/s/itac-08-0ye9v?file=/index.html:0-11250
+     https://0ye9v.csb.app/page.html
    
-      - FLUID LAYOUT: 
- ###
+
       
