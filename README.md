@@ -82,8 +82,7 @@ initial education for front_end work
 
 ### html attribute# 
 
->웹 페이지 구조 표시
-         
+>웹 페이지 구조 표시        
 >웹 페이지 콘텐츠 표시 
 > 텍스트 컨텐츠인지
 > 멀티미디어 컨텐츠 인지 : 이미지, 비디오, 오디오 
@@ -159,8 +158,7 @@ initial education for front_end work
             - PC: 1024PX-1920PX (더 큰 이미지는, 개발시 요청사항에 맞춰서) 
          
          반대로,
-         
-     
+  
             - PC: 1024PX-1920PX (더 큰 이미지는, 개발시 요청사항에 맞춰서) 
          
             - SMART PHONE: 320PX-620PX
@@ -168,14 +166,13 @@ initial education for front_end work
             - SMART PHONE: 320PX-620PX
          
          /*PC*/
-         
-         @MEDIA SCREEN (@MAX WIDTH:1920PX)
+         @MEDIA SCREEN AND(@MAX WIDTH:1920PX)
          
          /*TABLET*/ 
-         @MEDIA SCREEN (@MAX WIDTH:1024PX)
+         @MEDIA SCREEN AND(@MAX WIDTH:1024PX)
          
          /*SMARTPOHNE*/
-      @MEDIA SCREEN (@MAX WIDTH:620PX)
+      @MEDIA SCREEN AND(@MAX WIDTH:620PX)
    
       - FLUID LAYOUT: 
  ###
