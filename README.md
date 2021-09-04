@@ -132,3 +132,22 @@ initial education for front_end work
          
   ###     gnb/lnb ### 화면구성 기본 페이지   
   ### https://www.photopea.com/ 포토피아 :이미지편집
+         
+  ###CSS FLEX
+      >  박스레이아웃 구성에 관련된 CSS속성 
+      >
+      >flex 적용
+      >
+      >부모요소에 적응하는 속성
+      >- dispay: flex;   flex의 박스방향 배치 
+      >-justify-content:가로방향 정렬
+      >-align-items: 세로방향 정렬 
+         
+      >자식요소에 적응하는 속성 
+      >
+      >    flex:1; : 빈공간에 box를 채움 
+ ###반응형 웹         
+      > OSMU :OUTSOURCE MULTIUSE    
+      > - 한 HTML 페이지에서 다양한 CSS를 통해, PC.SMART PHONE 레이아웃 구성을 표현 
+      
+      
