@@ -179,5 +179,5 @@ initial education for front_end work
      https://codesandbox.io/s/itac-08-0ye9v?file=/index.html:0-11250
      https://0ye9v.csb.app/page.html
    
-
-      
+###유용한 사이트: 해상도 표기 및 화면 구성 시: 
+         https://www.mydevice.io/ 
