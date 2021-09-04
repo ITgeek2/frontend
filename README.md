@@ -149,5 +149,12 @@ initial education for front_end work
  ###반응형 웹         
       > OSMU :OUTSOURCE MULTIUSE    
       > - 한 HTML 페이지에서 다양한 CSS를 통해, PC.SMART PHONE 레이아웃 구성을 표현 
-      
+         
+      -VIEWPORT
+      - MEDIA QUERY
+      - BREAK POINT: 레이아웃이 변경되는 지점
+      - 해상도
+      - SMART PHONE: 320PX-620PX
+      =FLUID LAYOUT:    
+ ###
       
