@@ -150,11 +150,12 @@ initial education for front_end work
       > OSMU :OUTSOURCE MULTIUSE    
       > - 한 HTML 페이지에서 다양한 CSS를 통해, PC.SMART PHONE 레이아웃 구성을 표현 
          
-      -VIEWPORT
+      - VIEWPORT
       - MEDIA QUERY
       - BREAK POINT: 레이아웃이 변경되는 지점
       - 해상도
-      - SMART PHONE: 320PX-620PX
-      =FLUID LAYOUT:    
+            - SMART PHONE: 320PX-620PX
+            - TABLET: 768PPX-1024PX
+      - FLUID LAYOUT:    
  ###
       
