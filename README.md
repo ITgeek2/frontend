@@ -156,6 +156,7 @@ initial education for front_end work
       - 해상도
             - SMART PHONE: 320PX-620PX
             - TABLET: 768PPX-1024PX
-      - FLUID LAYOUT:    
+            - PC: 1024PX-1920PX (더 큰 이미지는, 개발시 요청사항에 맞춰서 
+      - FLUID LAYOUT: 
  ###
       
